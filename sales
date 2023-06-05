@@ -2,15 +2,16 @@
 2 Put in the sales data in the array of each region.
 3 put lowest selling as empty list.
 4 put high selling as empty list.
-5 set repeat answers to true
-6 create a while loop repeat / start analysis for each region.
-7 put lowest salles to Infinity.
-8 put the highest sales to zero.
-9 Create the if statement for low sales. 
-10 Create another if statement high sales. 
-11 Show the lowest selling. 
-12 Show the highest selling.
-13 Ask the user if they want to perform analysis again. 
-14 if yes loop and repeat the analysis.
-15 if not then end sequence.
-16 end.
+5 distinguish sales during the holidays period from sales during normal weeks and weekends in the array
+6 set repeat answers to true
+7 create a while loop repeat / start analysis for each region.
+8 put lowest salles to Infinity.
+9 put the highest sales to zero.
+10 Create the if statement for low sales. 
+11 Create another if statement high sales. 
+12 Show the lowest selling. 
+13 Show the highest selling.
+14 Ask the user if they want to perform analysis again. 
+15 if yes loop and repeat the analysis.
+16 if not then end sequence.
+17 end.
